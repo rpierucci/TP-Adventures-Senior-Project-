@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c53b744f9aa2c494fbe72767fe171808
+timeCreated: 1520664889
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 8BIT WONDER
+  fontNames:
+  - 8 Bit Wonder
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
